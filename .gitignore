@@ -1,0 +1,16 @@
+safepath
+safepath.exe
+safe_route
+safe_route.exe
+*.o
+*.obj
+*.out
+map.html
+*.html
+docs/**/*.html
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+.env

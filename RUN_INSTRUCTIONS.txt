@@ -1,0 +1,16 @@
+====================================================
+SAFEPATH - QUICK START
+====================================================
+
+1. COMPILE:
+   gcc src\safepath.c -o safepath.exe
+
+2. GENERATE MAP:
+   safepath.exe > map.html
+
+3. OPEN map.html in your browser.
+
+If routing fails:
+   python -m http.server 8000
+   Open http://localhost:8000/map.html
+====================================================
